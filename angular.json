@@ -24,11 +24,28 @@
             ],
             "styles": [
               "src/styles.css",
-
-
+              "src/assets/css/bootstrap.css",
+              "src/assets/css/font-awesome.css",
+              "src/assets/css/jquery.smartmenus.bootstrap.css",
+              "src/assets/css/jquery.simpleLens.css",
+              "src/assets/css/slick.css",
+              "src/assets/css/theme-color/lite-blue-theme.css",
+              "src/assets/css/sequence-theme.modern-slide-in.css",
+              "src/assets/css/nouislider.css",
+              "src/assets/css/style.css"
             ],
             "scripts": [
-
+              "src/assets/js/bootstrap.js",
+              "src/assets/js/custom.js",
+              "src/assets/js/jquery.simpleGallery.js",
+              "src/assets/js/jquery.simpleLens.js",
+              "src/assets/js/jquery.smartmenus.bootstrap.js",
+              "src/assets/js/jquery.smartmenus.js",
+              "src/assets/js/nouislider.js",
+              "src/assets/js/sequence.js",
+              "src/assets/js/sequence-theme.modern-slide-in.js",
+              "src/assets/js/slick.js",
+              "src/assets/js/jquery.min.js"
             ]
           },
           "configurations": {
